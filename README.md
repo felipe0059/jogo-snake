@@ -23,7 +23,7 @@ utilizando apenas a biblioteca nativa do java.
 -Tela Start-Game
 -Botão de Restart
 
-##Clone o repositório e jogue :
+## Clone o repositório e jogue :
 
 ```bash
 
@@ -31,8 +31,8 @@ $git clone https://github.com/felipe0059/jogo-snake
 
 ```
 
-ou
+## ou
 
 <img src ="https://i.ibb.co/tDGGNct/Capturar3.jpg">
 
-baixe extraia e compile na sua IDE favorita.
+## baixe, extraia e compile na sua IDE favorita.
