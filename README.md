@@ -1,11 +1,12 @@
 <h1 align="center"> Jogo Snake 🐍 </h1>
 
-##Sobre
+## Sobre
 Projeto simples desenvolvido seguindo o tutorial do canal [BroCode](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
 utilizando apenas a biblioteca nativa do java.
 
 ---
-##Screens
+
+## Screens
 
 <h1>
 <img src="https://i.ibb.co/DDVxRdJ/1.jpg">
@@ -20,9 +21,9 @@ utilizando apenas a biblioteca nativa do java.
 ## Implementações futuras
 
 -Tela Start-Game
--BotÃ£o de Restart
+-Botão de Restart
 
-##Clone o repositÃ³rio e jogue :
+##Clone o repositório e jogue :
 
 ```bash
 
